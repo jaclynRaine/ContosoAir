@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/MTF2021/rainej-ContosoAir/_apis/build/status/jaclynRaine.ContosoAir?branchName=master)](https://dev.azure.com/MTF2021/rainej-ContosoAir/_build/latest?definitionId=46&branchName=master)
 
 # Microsoft.Github CI Demo
 
